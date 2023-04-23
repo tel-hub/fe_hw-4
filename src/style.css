@@ -1,0 +1,10 @@
+.image-holder {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.image-holder img {
+    cursor: pointer;
+    max-width: 200px;
+}
